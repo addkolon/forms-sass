@@ -3,7 +3,7 @@ import LoginForm from "../components/LoginForm";
 export default function Login() {
   return (
     <div className="container">
-      <div className="login-form">
+      <div className="auth-form">
         <h2>Login</h2>
         <LoginForm />
         <div className="forgot-password">

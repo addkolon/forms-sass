@@ -17,7 +17,7 @@ h2 {
   margin: 0 1rem;
 }
 
-.login-form {
+.auth-form {
   height: 100dvh;
   display: flex;
   justify-content: center;
